@@ -24,7 +24,7 @@ Usage (Kaggle):
 Usage (local, multi-scene):
     python FUSION_HAD.py --dataset /data/*.mat --gt /data/*.mat
 
-Author: Combined from Pranav Kumar (IRIS-NET) + DSSA Team — unified by Claude
+Author: Combined from Pranav Kumar (IRIS-NET) + Cheralathan M (DSSA)
 """
 
 import os, gc, copy, random, warnings, argparse
